@@ -6,3 +6,5 @@
 garmin-tokens.json
 state.json
 .env
+/env.sh
+/.testconfig/
