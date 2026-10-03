@@ -66,3 +66,7 @@ All development is driven by Architecture Decision Records (ADRs), stored in the
 ## Language policy
 
 All project content must be written in English: code, code comments, commit messages, documentation, ADRs, issues and any other collaboration.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
