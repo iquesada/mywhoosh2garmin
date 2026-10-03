@@ -1,0 +1,8 @@
+# Build output
+/bin/
+/mywhoosh2garmin
+
+# Local secrets and state, in case the config dir is pointed at the repository
+garmin-tokens.json
+state.json
+.env
