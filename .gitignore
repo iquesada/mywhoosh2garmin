@@ -8,3 +8,6 @@ state.json
 .env
 /env.sh
 /.testconfig/
+
+# Claude Code local settings
+/.claude/
